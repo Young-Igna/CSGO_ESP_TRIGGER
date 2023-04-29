@@ -1,0 +1,28 @@
+0xA4
+
+
+////////////////////////////////////////////
+//////////// ENGLISH ///////////////////////
+////////////////////////////////////////////
+
+// Change the first line (0xA4) to the key code you want below :
+// (Default) LeftAlt = 0xA4
+// LeftShift : 0xA0
+// X1 mouse button : 0x05
+// X2 mouse button : 0x06
+// Middle mouse button : 0x04
+// Codes for all other keys : https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+// Take only hexadecimal codes, ex: 0x00.
+
+////////////////////////////////////////////
+//////////// FRENCH ////////////////////////
+////////////////////////////////////////////
+
+// Changez la première ligne (0xA4) par le code de la touche que vous voulez ci dessous:
+// (Par défaut) LeftAlt = 0xA4
+// LeftShift : 0xA0
+// X1 mouse button : 0x05
+// X2 mousse button : 0x06
+// Middle mouse button : 0x04
+// Les codes pour toute les autres touche : https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+// Prenez uniquement les codes hexadécimales, ex: 0x00.
